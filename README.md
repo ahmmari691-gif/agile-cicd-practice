@@ -1,8 +1,8 @@
 # Agile CI/CD practice
 
 ## Student details
-Student identifier: [complete with an approved identifier]
-Group: [complete]
+Student identifier: Akhmetshina Mariya, Dana dyseneva and Sabina Dyseneva
+Group: ITM-2402
 
 ## Sprint goal
 Deliver a Sprint Dashboard that accurately displays completed story points and can be updated through an automated, tested release process.
