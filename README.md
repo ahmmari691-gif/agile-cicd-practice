@@ -1,7 +1,7 @@
 # Agile CI/CD practice
 
 ## Student details
-Student identifier: Akhmetshina Mariya, Dana dyseneva and Sabina Dyseneva
+Student identifier: Akhmetshina Mariya, Dana Dyseneva and Sabina Dyseneva
 Group: ITM-2402
 
 ## Sprint goal
